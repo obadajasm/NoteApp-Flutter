@@ -1,6 +1,14 @@
-# testapp
+# NoteApp Flutter
 
 A new Flutter project.
+
+Create your notes and organize them over there priority
+
+
+
+<img src="https://media.giphy.com/media/l3CfEn9A3qZkWV2Rgw/giphy.gif"/>
+
+
 
 ## Getting Started
 
